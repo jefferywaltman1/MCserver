@@ -1,0 +1,35 @@
+########################################
+#GetIP Made And Coded By Mrgamer523 
+#(AKA, Sir_BowALot(AKA Stobbzy345))#
+########################################
+
+serverIP: '&5The &4I&2P &5Address for this server is: &6YourServerIP.Here.ChangeThisInConfig!'
+
+##########################
+#Join And Leave Messages!#
+##########################
+
+JoinMessage: '&2Join Message!'
+LeaveMessage: '&6Leave Message!'
+
+##############################
+#Bed Join And Leave Messages!#
+##############################
+
+BedEnterMessage: '&aYour Playing On IP HERE, Good Night :)'
+BedLeaveMessage: '&bYour Playing On IP HERE, Good Morning! :D'
+
+###################################################
+#You Can Edit Everything Here 
+#Just Don't Remove The Bits with : Before Them!#
+###################################################
+###################################################
+###################################################
+#Here You Can Edit The Website Message!#
+###################################################
+
+WebsiteMessage: '&awww.example.com'
+
+#########
+#End#
+#########

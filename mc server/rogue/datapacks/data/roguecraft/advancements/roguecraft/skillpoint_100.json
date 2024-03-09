@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "translate": "roguecraft.advancement.name.skillpoint_100"
+        },
+        "description": {
+            "translate": "roguecraft.advancement.description.skillpoint_100",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:command_block_minecart",
+            "nbt": "{Enchantments:[{id:\"minecraft:channeling\",lvl:1}]}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "granted": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "roguecraft:roguecraft/skillpoint_1"
+}

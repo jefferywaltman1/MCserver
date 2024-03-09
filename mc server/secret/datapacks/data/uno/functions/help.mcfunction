@@ -1,0 +1,2 @@
+scoreboard players set @s help 0
+tellraw @s {"text":"=============== HELP ===============\n  > Drop card ON YOUR TURN to select\n  > If you have nothing drop any card\n  > Must match color, number, or type\n  > First to empty hand wins\n===================================","bold":true,"color":"gold"}

@@ -1,0 +1,1 @@
+$function roguecraft:ability/tell_3 with storage minecraft:master abilities.$(temp_score_ability)

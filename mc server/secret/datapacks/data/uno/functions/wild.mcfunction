@@ -1,0 +1,3 @@
+tag @s add pick_wild
+scoreboard players enable @s wild
+tellraw @s ["",{"text":"Pick Wild Color!","color":"light_purple"},{"text":"\n  "},{"text":"[ Red ]","color":"red","clickEvent":{"action":"run_command","value":"/trigger wild set 1"}},{"text":"\n  ","color":"red"},{"text":"[ Green ]","color":"green","clickEvent":{"action":"run_command","value":"/trigger wild set 2"}},{"text":"\n"},{"text":"  ","color":"red"},{"text":"[ Blue ]","color":"blue","clickEvent":{"action":"run_command","value":"/trigger wild set 3"}},{"text":"\n"},{"text":"  ","color":"red"},{"text":"[ Yellow ]","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger wild set 4"}}]

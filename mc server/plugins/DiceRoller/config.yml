@@ -1,0 +1,37 @@
+venturechat:
+  use: false
+  use-whitelist: false
+  whitelist-channels:
+    - local
+    - roller
+commands:
+  base:
+    command: "diceroller"
+    aliases:
+      - "dr"
+      - "droller"
+  roll:
+    command: "roll"
+    aliases: []
+  broadcast-roll:
+    command: "broll"
+    aliases:
+      - "broadcastroll"
+
+particle-count: 10
+## Cooldown in seconds
+personal-cooldown: 0.2
+broadcast-cooldown: 1
+## Max number of rolls in 1 command
+max-rolls: 10
+## Rolls available with regular /roll d<#>
+## Custom dice rolls require special permission
+accepted-rolls:
+  - 2
+  - 4
+  - 6
+  - 8
+  - 10
+  - 12
+  - 20
+  - 100

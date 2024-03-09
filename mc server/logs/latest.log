@@ -1,0 +1,52 @@
+[18:33:12] [Server thread/INFO]: Stopping server
+[18:33:12] [Server thread/INFO]: [DiceRoller] Disabling DiceRoller v1.5.8
+[18:33:12] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.102
+[18:33:12] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:33:12] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:33:12] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:33:12] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[18:33:12] [Server thread/INFO]: [Multiverse-SignPortals] Disabling Multiverse-SignPortals v4.2.2
+[18:33:12] [Server thread/INFO]: [Multiverse-SignPortals] - Disabled
+[18:33:12] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[18:33:12] [Server thread/INFO]: Saving players
+[18:33:12] [Server thread/INFO]: Saving worlds
+[18:33:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:33:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:33:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:33:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 1021 block chunks, 250 entity chunks, 1 poi chunks in world 'world' in 0.75s
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 14 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[rogue]'/minecraft:rogue
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'rogue'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'rogue'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'rogue'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'rogue' in 0.03s
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (rogue): All chunks are saved
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CreativeWorld]'/minecraft:creativeworld
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'CreativeWorld'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'CreativeWorld'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'CreativeWorld'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 39 entity chunks, 0 poi chunks in world 'CreativeWorld' in 0.02s
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (CreativeWorld): All chunks are saved
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[secret]'/minecraft:secret
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'secret'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'secret'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'secret'
+[18:33:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'secret' in 0.00s
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (secret): All chunks are saved
+[18:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:33:13] [Server thread/INFO]: Flushing Chunk IO
+[18:33:13] [Server thread/INFO]: Closing Thread Pool
+[18:33:13] [Server thread/INFO]: Closing Server

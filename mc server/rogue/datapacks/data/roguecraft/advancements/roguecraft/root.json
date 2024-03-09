@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "translate": "roguecraft.advancement.name.root"
+        },
+        "description": {
+            "translate": "roguecraft.advancement.description.root",
+            "color": "green"
+        },
+            "icon": {
+                "item": "minecraft:player_head",
+                "nbt": "{SkullOwner:{Id:[I;1893602195,-243971032,-1413476659,-1962647086],Name:\"MonoCodeYT\",Properties:{textures:[{Signature:\"NwpxuRdiQ0spplcj061Bq95Fby+6Chw+QtgGdCya/ECeq/0nYw2KPoAf508Bs8gOq95aGr1UWXjhZRBeqXdBfD4PG3LLV00JDayQ2xbk/ZnrJdhrtm7BQ1cyYjmLfbiKvGzqSSOvERi6SDL/vSmHqWwL2zASX3JmBw8QLA/bwOeDk0r2HkJc5Eu9qhhdCCb1gY6g9iqYzp1w4qFWeAcNzq2DAMGM7M2tHxdQZAT3tzyMu6NVG18XA/0jS5kX0C3GFEgcI/yRLcJHIe78I3mjyT91sZ0xZ/wXL83w51w/L13U4qkSwYsyoDp6LYglUnXWofdPriaO203GHzY9TCnrW1Fg9Anp6JhqFMI7Gzv41bwvgw7gA9c2L6HzoHB2Kan5IIIMpjVIsMdCc2+CbC822Ybatf/utSlHKJCF/pTV46oMNES4ZR8PZOOJAOLSvLu2XyEyu8mydffgsabBbaWyVGL++/iFrvJwbKmhFny+ek8PIZFE4P6xJBLYmi9Ov1RVAqL2U91ZNzb8jS8cTG2Tpkdo52vypsXAnGO254vsb1BNx0xm2JL84R5N+896nZQvn91vosmFehOA/47i/8qbma94ylrUVFMVnYLpzw2zdvpHaJUFhsFtlrNxHPXzxZBIxcslaQQj3jCuQRiuwRNjGaq8yj2Z99le1U/tJ4gxLSc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwMTg0NTczNzE4MiwKICAicHJvZmlsZUlkIiA6ICI3MGRlMTM5M2YxNzU0YzI4YWJjMDBlY2Q4YjA0NjFkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb25vQ29kZVlUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY0ZmE2YWUzMGNiYmJiYTIwNGQwNDU4NjlmNjlkODFkODRjNWY2MWQyM2EyNDcwYmE4NmIzNjkzMzI3M2ZhOTAiCiAgICB9CiAgfQp9\"}]}}}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/black_concrete.png"
+    },
+    "criteria": {
+        "granted": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

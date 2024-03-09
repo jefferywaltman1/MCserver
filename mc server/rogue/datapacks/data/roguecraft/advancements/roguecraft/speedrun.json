@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "translate": "roguecraft.advancement.name.speedrun"
+        },
+        "description": {
+            "translate": "roguecraft.advancement.description.speedrun",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:ender_eye"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "granted": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "roguecraft:roguecraft/run_complete"
+}
